@@ -1,0 +1,76 @@
+
+1: CHI at DET
+CHI: Alex Caruso turns 29
+
+4: TOR at WAS
+WAS: Corey Kispert turns 24
+
+5: GSW at LAL
+GSW: Draymond Green turns 33
+
+5: POR at ORL
+POR: Matisse Thybulle turns 26
+
+5: NYK at BOS
+NYK: Obi Toppin turns 25
+
+7: CHO at NYK
+NYK: Josh Hart turns 28
+
+8: ATL at WAS
+ATL: Tyrese Martin turns 24
+
+11: CHI at HOU
+CHI: Zach LaVine turns 28
+
+12: NYK at LAL
+LAL: Anthony Davis turns 30
+
+14: MIL at PHO
+PHO: Landry Shamet turns 26
+
+15: GSW at LAC
+GSW: Stephen Curry turns 35
+
+17: PHI at CHO
+PHI: Joel Embiid turns 29
+
+17: MEM at SAS
+SAS: Blake Wesley turns 20
+
+17: BOS at POR
+BOS: Blake Griffin turns 34
+
+17: DAL at LAL
+DAL: Reggie Bullock turns 32, Tim Hardaway Jr. turns 31
+
+18: BOS at UTA
+UTA: Johnny Juzang turns 22
+
+19: LAC at POR
+LAC: Ivica Zubac turns 26
+
+24: HOU at MEM
+HOU: Trevor Hudgins turns 24
+
+24: CHO at DAL
+CHO: Gordon Hayward turns 33
+DAL: Kyrie Irving turns 31
+
+25: IND at ATL
+IND: Myles Turner turns 27
+
+27: NOP at POR
+POR: Justise Winslow turns 27, Ryan Arcidiacono turns 29
+
+28: ORL at MEM
+MEM: David Roddy turns 22
+
+29: MIA at NYK
+MIA: Max Strus turns 27
+
+29: DET at OKC
+OKC: Justin Jackson turns 28
+
+31: ORL at WAS
+ORL: Admiral Schofield turns 26
