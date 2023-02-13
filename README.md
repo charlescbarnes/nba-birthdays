@@ -57,7 +57,7 @@ There are two ways I'm interested in furthering this project.
 
 First, I would like to be both smarter and more flexible about 
 which birthday-games to include. For instance, even we knew Lou 
-Williams would celebrate his 21st birthday the day before a game 
+Williams would celebrate his 21st birthday the day before a game in 
 Atlanta ([home of Magic City](https://www.sbnation.com/nba/2020/8/5/21355463/lou-williams-magic-city-wings-nba-bubble)), 
 the partied-too-hard postulate may be misplaced if the Atlanta game 
 is on the second night of a back-to-back. Conversely, if a team had a 
