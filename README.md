@@ -58,11 +58,12 @@ There are two ways I'm interested in furthering this project.
 First, I would like to be both smarter and more flexible about 
 which birthday-games to include. For instance, even we knew Lou 
 Williams would celebrate his 21st birthday the day before a game 
-Atlanta ([home of Magic City](https://www.sbnation.com/nba/2020/8/5/21355463/lou-williams-magic-city-wings-nba-bubble)
-), the partied-too-hard postulate may be misplaced if the Atlanta game 
-is on the second night of a back-to-back. Conversely, if a team had a couple 
-of off days in LA, we may be interested in players with birthdays two days 
-before their LA game as well as day-before birthday boys.
+Atlanta ([home of Magic City](https://www.sbnation.com/nba/2020/8/5/21355463/lou-williams-magic-city-wings-nba-bubble)), 
+the partied-too-hard postulate may be misplaced if the Atlanta game 
+is on the second night of a back-to-back. Conversely, if a team had a 
+couple of off days in LA, we may be interested in players with 
+birthdays two days before their LA game as well as day-before birthday 
+boys.
 
 Second, I'd like to add some filters to the stats we collect. 
 Presumably, an under-25 birthday is more impactful on a game than 
