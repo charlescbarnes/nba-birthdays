@@ -3,9 +3,9 @@
 ## Description
 
 This Java program retrieves past and future NBA games played the day
-after a participating player's birthday. (One might consider bets
+after a participating player's birthday. One might consider betting
 against a birthday-team you suspect will go a little too hard the 
-night before.)
+night before.
 
 ## Usage
 
@@ -34,15 +34,14 @@ November.txt, etc.
 ![Run screenshot2](Screenshots/RunScreenshot2.png)
 
 These are the files the user will be most interested in viewing. In 
-the example below, data was last retrieved on February.txt file was 
-last modified on February 7th, so only games prior to that date 
-contain results.
+the example below, this February.txt file was last modified by our program 
+on February 7th, so only games prior to that date have results attached.
 
 ![February.txt screenshot](Screenshots/MonthTextFileScreenshot.png)
 
 Finally, the user is asked whether they want to gather birthday-game 
 stats. This calculates some statistics and saves them to 
-Statistics.txt
+Statistics.txt.
 
 ![Statistics.txt screenshot](Screenshots/StatisticsScreenshot.png)
 
@@ -59,11 +58,11 @@ There are two ways I'm interested in furthering this project.
 First, I would like to be both smarter and more flexible about 
 which birthday-games to include. For instance, even we knew Lou 
 Williams would celebrate his 21st birthday the day before a game 
-Atlanta (home of Magic City), the partied-too-hard postulate may 
-be misplaced if the Atlanta game is on the second night of a 
-back-to-back. Conversely, if a team had a couple of off days in LA, 
-we may be interested in players with birthdays two days before their
-LA game as well as day-before birthday boys.
+Atlanta ([home of Magic City](https://www.sbnation.com/nba/2020/8/5/21355463/lou-williams-magic-city-wings-nba-bubble)
+), the partied-too-hard postulate may be misplaced if the Atlanta game 
+is on the second night of a back-to-back. Conversely, if a team had a couple 
+of off days in LA, we may be interested in players with birthdays two days 
+before their LA game as well as day-before birthday boys.
 
 Second, I'd like to add some filters to the stats we collect. 
 Presumably, an under-25 birthday is more impactful on a game than 
@@ -115,6 +114,9 @@ Et cetera. Later, Bill has an epiphany.
 > combination!"
 
 All data is scraped from [basketball-reference.com](https://www.basketball-reference.com/).
+
+Also, thank you to [YargleWithWings](https://github.com/yarglewithwings) 
+for helping me troubleshoot some issues.
 
 ## Project Status
 
