@@ -1,0 +1,54 @@
+
+2: NOP at PHI, 111-120
+NOP: Larry Nance Jr. turned 30 (DND)
+
+3: BOS at OKC, 117-150
+OKC: Aaron Wiggins turned 24 (32:23 mp, 17 pts, 7/8 fga, 6 reb, 3 ast)
+
+4: SAS at NYK, 114-117
+SAS: Doug McDermott turned 31 (23:28 mp, 15 pts, 5/7 fga, 2 reb, 0 ast)
+
+5: UTA at HOU, 131-114
+UTA: Collin Sexton turned 24
+
+9: SAS at MEM, 113-121
+SAS: Tre Jones turned 23 (30:09 mp, 18 pts, 6/16 fga, 4 reb, 7 ast)
+
+9: ORL at SAC, 111-136
+SAC: Keon Ellis turned 23
+
+10: CLE at UTA, 114-116
+UTA: Luka Šamanić turned 23
+
+10: ORL at POR, 109-106
+ORL: Caleb Houstan turned 20 (2:33 mp, 0 pts, 0/1 fga, 0 reb, 0 ast)
+
+11: IND at NYK, 113-119
+IND: Isaiah Jackson turned 21 (19:11 mp, 5 pts, 2/4 fga, 2 reb, 1 ast)
+
+11: SAS at MEM, 129-135
+MEM: Santi Aldama turned 22 (22:46 mp, 7 pts, 2/4 fga, 5 reb, 0 ast)
+
+12: CHO at TOR, 114-124
+TOR: Chris Boucher turned 30 (10:10 mp, 5 pts, 2/3 fga, 1 reb, 0 ast)
+
+19: TOR at MIN, 126-128
+TOR: Gary Trent Jr. turned 24 (36:26 mp, 18 pts, 6/15 fga, 2 reb, 0 ast)
+
+20: MIA at DAL, 90-115
+DAL: JaVale McGee turned 35 (DNP)
+
+22: LAC at DAL, 112-98
+LAC: Moussa Diabaté turned 21 (DNP)
+
+23: MEM at SAC, 100-133
+MEM: Dillon Brooks turned 27 (30:10 mp, 13 pts, 6/15 fga, 1 reb, 6 ast)
+
+25: MIN at NOP, 111-102
+NOP: Naji Marshall turned 25 (26:47 mp, 5 pts, 1/6 fga, 4 reb, 4 ast)
+
+27: CLE at OKC, 100-112
+CLE: Darius Garland turned 23 (37:18 mp, 31 pts, 10/23 fga, 2 reb, 13 ast), Isaac Okoro turned 22 (26:17 mp, 6 pts, 3/7 fga, 4 reb, 2 ast)
+
+30: DET at DAL, 105-111
+DAL: Maxi Kleber turned 31

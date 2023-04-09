@@ -1,0 +1,57 @@
+
+1: PHI at BOS, 87-88
+BOS: Grant Williams turned 23 (14:33 mp, 3 pts, 1/2 fga, 1 reb, 0 ast)
+
+3: PHI at ATL, 98-96
+ATL: De'Andre Hunter turned 24
+
+3: NOP at DAL, 107-91
+DAL: Brandon Knight turned 30
+
+5: CHO at ATL, 130-127
+ATL: Chaundee Brown Jr. turned 23
+
+6: CLE at MIL, 104-112
+MIL: Semi Ojeleye turned 27
+
+6: LAC at POR, 102-90
+LAC: Semi Ojeleye turned 27
+
+9: LAL at MEM, 95-108
+LAL: Dwight Howard turned 36 (10:28 mp, 5 pts, 2/3 fga, 3 reb, 0 ast)
+
+10: SAC at CHO, 123-124
+CHO: Kelly Oubre Jr. turned 26 (41:24 mp, 22 pts, 9/17 fga, 6 reb, 5 ast)
+
+10: BRK at ATL, 113-105
+BRK: Langston Galloway turned 30
+
+10: MIL at HOU, 123-114
+MIL: Langston Galloway turned 30
+
+11: SAC at CLE, 103-117
+CLE: Tacko Fall turned 26 (DNP)
+
+15: CHO at SAS, 131-115
+SAS: Lonnie Walker IV turned 23
+
+15: MEM at POR, 113-103
+POR: Robert Covington turned 31 (22:34 mp, 4 pts, 2/6 fga, 3 reb, 1 ast)
+
+15: LAC at UTA, 103-124
+LAC: Nicolas Batum turned 33, Robert Covington turned 31
+
+22: ORL at ATL, 104-98
+ORL: B.J. Johnson turned 26 (16:23 mp, 14 pts, 6/7 fga, 4 reb, 0 ast)
+
+23: NOP at ORL, 110-104
+ORL: Aleem Ford turned 24 (7:53 mp, 0 pts, 0/2 fga, 5 reb, 0 ast)
+
+31: CHI at IND, 108-106
+IND: Keifer Sykes turned 28 (10:59 mp, 2 pts, 1/3 fga, 1 reb, 0 ast)
+
+31: NYK at OKC, 80-95
+OKC: Paul Watson turned 27 (14:17 mp, 2 pts, 1/3 fga, 3 reb, 0 ast)
+
+31: POR at LAL, 106-139
+LAL: LeBron James turned 37 (29:18 mp, 43 pts, 16/26 fga, 14 reb, 4 ast)
